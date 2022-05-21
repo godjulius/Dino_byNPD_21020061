@@ -24,6 +24,7 @@ Các file của thư viện đồ hoạ SDL đã có sẵn trên folder LibSdl2 
 - Class, kế thừa
 - vòng lặp game loop
 - dùng mảng, vector pair, sắp xếp mảng
+- con trỏ
 - nhập xuất bằng file
 + **PART 5: Kết luận:**
 - 1, Hướng phát triển:

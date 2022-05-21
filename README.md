@@ -37,6 +37,6 @@ Các file của thư viện đồ hoạ SDL đã có sẵn trên folder LibSdl2 
 - Code sạch đẹp, refactor
 - Chia file
 - **P/S:**
-- Các hàm cơ bản của đối tượng được tham khảo từ phattrienphanmem123
+- Các hàm cơ bản của đối tượng được tham khảo từ phattrienphanmem123az
 - Các hàm nâng cao hơn về game học từ lazyfoo
 - Nhân vật khủng long: https://arks.itch.io/dino-characters

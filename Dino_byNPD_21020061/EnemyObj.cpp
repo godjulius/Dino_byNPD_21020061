@@ -90,7 +90,7 @@ bool Enemy::Move(int& acceleration, int xBack, const int gType)
         }
         if (gType == STAR)
         {
-            xPos = xBack + ENEMY_RANGE / 2;
+            xPos += ENEMY_RANGE / 2;
         }
     }
     return 1;

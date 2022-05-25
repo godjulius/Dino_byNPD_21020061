@@ -27,6 +27,7 @@ Các file của thư viện đồ hoạ SDL đã có sẵn trên folder LibSdl2 
 - dùng mảng, vector pair, sắp xếp mảng
 - con trỏ
 - nhập xuất bằng file
+- Module hoá chương trình
 ## **PART 5: Kết luận:**
 - 1, Hướng phát triển:
 - Làm mượt hơn, tăng fps
